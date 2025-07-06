@@ -1,6 +1,15 @@
 Diary App
 Aplikasi catatan harian digital yang dirancang untuk membantu pengguna menyimpan aktivitas, kenangan, dan refleksi harian secara aman dan terorganisir. Dilengkapi dengan fitur mood tracking untuk memahami pola emosi, serta antarmuka responsif yang mudah digunakan kapan saja dan di mana saja.
-![WhatsApp Image 2025-07-05 at 14 53 05_a69b6bc7](https://github.com/user-attachments/assets/677473a3-607d-4e58-ae08-c634382e28cc)
+fitur utama :
+1. login dan register
+2. Tambah,Edit,Hapus Catatan
+3. Mood Tracking Harian
+4. Design Responsif
+5. Pencatatan Berdasarkan Gambar
+
+Screenshot isi dari website kami
+    ![WhatsApp Image 2025-07-05 at 14 53 05_a69b6bc7](https://github.com/user-attachments/assets/677473a3-607d-4e58-ae08-c634382e28cc)
+
 
 ![WhatsApp Image 2025-07-05 at 14 53 06_5129c0ad](https://github.com/user-attachments/assets/2d913100-aa94-4166-b6dc-121cc3ee01fa)
 
